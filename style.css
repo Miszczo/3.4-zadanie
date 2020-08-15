@@ -2,3 +2,7 @@ header p {
   font-size: 24px;
   font-style: italic;
 }
+
+footer p {
+  font-style: italic;
+}
